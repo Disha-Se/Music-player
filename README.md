@@ -18,7 +18,7 @@ Installation:
 Clone this repository:
 
 
-git clone https://github.com/yourusername/interactive-playlist-manager.git
+git clone https://github.com/Disha-Se/interactive-playlist-manager.git
 cd interactive-playlist-manager
 Install the required dependencies:
 
